@@ -1,1 +1,1 @@
-# HandGesture
+# Hand Gesture using Mediapipe
